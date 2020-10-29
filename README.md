@@ -31,7 +31,5 @@ The secod one is just taking a hexadexcimal RGB value to display
 
 ### C# (Windows forms application)
 
-**Currently unavailable** - Trying to upload
-
-This program currently has 10 buttons, 3 for RGB, 3 for Cyan, Purple and Yellow, 1 for White, 1 for off and 1-1 for closing and opening serial connection.
+This UI currently has 10 buttons, 3 for RGB, 3 for Cyan, Purple and Yellow, 1 for White, 1 for off and 1-1 for closing and opening serial connection.
 Planning to add a colorwheel, and rainbow button after i figure out the final place of the led strip and it's wiring.
